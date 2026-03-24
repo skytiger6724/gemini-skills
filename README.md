@@ -29,18 +29,26 @@ Persuasive writing that resonates with your audience.
 - **[Copywriting/Editing](./copywriting)**: Write and polish high-converting marketing copy.
 - **[Cold Email](./cold-email)**: Craft B2B outreach sequences that get replies.
 - **[Social Content](./social-content)**: Create engaging content for Twitter, LinkedIn, and TikTok.
+- **[baoyu-skills](./baoyu-skills)**: 模擬大 V 風格（如公眾號或 Threads）創作爆款文案。
 - **[Humanizer](./humanizer)**: Inject soul and personality into AI-generated text.
 - **[Internal Comms](./internal-comms)**: Professional status reports, updates, and leadership memos.
 
 ### 📂 Productivity & File Processing
 Handle complex file formats and automate repetitive tasks.
 - **[PDF Professional](./pdf)**: Merge, split, fill forms, and OCR scanned documents.
+- **[pdf-extractor](./pdf-extractor)**: 將死板 PDF 報表轉為可運算表格或摘要。
 - **[XLSX Expert](./xlsx)**: Advanced Excel/CSV manipulation, formulas, and cleaning.
+- **[xlsx-master](./xlsx-master)**: 處理複雜公式、生成圖表、尋找數據趨勢。
 - **[PPTX/PPT Generator](./pptx)**: Create and edit professional presentation decks.
+- **[pptx-generator](./pptx-generator)**: 根據大綱自動生成排版精美的投影片。
 - **[Docx](./docx)**: Professional Word document generation and manipulation.
 
 ### 🏗️ Product & Tech Operations
 Streamline your development and project management workflows.
+- **[youtube-analyst](./youtube-analyst)**: 拆解熱門影片結構，生成流量密碼腳本。
+- **[content-research](./content-research)**: 深度內容調研，標註權威引用來源。
+- **[meeting-insights](./meeting-insights)**: 提煉逐字稿精華，抓出行動清單與決策。
+- **[portrait-pro](./portrait-pro)**: 優化 MJ/SD 人像提示詞，追求極致真實。
 - **[RevOps](./revops)**: Connect marketing systems to sales pipelines and CRM automation.
 - **[Sales Enablement](./sales-enablement)**: Create pitch decks, one-pagers, and sales collateral.
 - **[Product Manager Toolkit](./product-manager-toolkit)**: Specs, roadmaps, and feature prioritization.
