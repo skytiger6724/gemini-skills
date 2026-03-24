@@ -8,6 +8,13 @@ From high-converting marketing copy and technical SEO audits to complex PDF proc
 
 ## 🛠️ Category Breakdown
 
+### 📊 AI Operations & Logic (New!)
+Advanced reasoning, routing, and browser-based automation.
+- **[zeroapi](./zeroapi)**: Intelligent model routing for OpenClaw/Gemini CLI. Selects between Gemini 3, GPT-5.3, and Claude 4.6 based on task complexity.
+- **[agent-browser](./agent-browser)**: Web browsing automation for real-time research, data scraping, and interaction.
+- **[skill-vetter](./skill-vetter)**: Automated validation and testing of other skills to ensure reliability and performance.
+- **[control-center](./control-center)**: The central nervous system for managing multi-agent tasks and system-wide state.
+
 ### 📈 Marketing & Growth (CRO)
 Boost your conversions and optimize every touchpoint of your user journey.
 - **[Onboarding/Signup CRO](./onboarding-cro)**: Optimize post-signup activation and registration flows.
@@ -23,6 +30,7 @@ Dominate search engines and build a sustainable organic presence.
 - **[Programmatic SEO](./programmatic-seo)**: Scale your SEO with templated, data-driven pages.
 - **[Content Strategy](./content-strategy)**: Plan topic clusters, editorial calendars, and content pillars.
 - **[Schema Markup](./schema-markup)**: Add structured data (JSON-LD) for rich snippets.
+- **[content-research-writer](./content-research-writer)**: 協助撰寫高品質內容，進行深度研究並加入精準引用。
 
 ### ✍️ Copywriting & Communication
 Persuasive writing that resonates with your audience.
@@ -32,6 +40,7 @@ Persuasive writing that resonates with your audience.
 - **[baoyu-skills](./baoyu-skills)**: 模擬大 V 風格（如公眾號或 Threads）創作爆款文案。
 - **[Humanizer](./humanizer)**: Inject soul and personality into AI-generated text.
 - **[Internal Comms](./internal-comms)**: Professional status reports, updates, and leadership memos.
+- **[technical-writing](./technical-writing)**: Clear, accurate documentation for developers and technical stakeholders.
 
 ### 📂 Productivity & File Processing
 Handle complex file formats and automate repetitive tasks.
@@ -42,6 +51,8 @@ Handle complex file formats and automate repetitive tasks.
 - **[PPTX/PPT Generator](./pptx)**: Create and edit professional presentation decks.
 - **[pptx-generator](./pptx-generator)**: 根據大綱自動生成排版精美的投影片。
 - **[Docx](./docx)**: Professional Word document generation and manipulation.
+- **[data-visualization](./data-visualization)**: Transform raw data into insight-driven charts and reports.
+- **[financial-report-generation](./financial-report-generation)**: Professional generation of structured financial statements.
 
 ### 🏗️ Product & Tech Operations
 Streamline your development and project management workflows.
@@ -49,6 +60,7 @@ Streamline your development and project management workflows.
 - **[content-research](./content-research)**: 深度內容調研，標註權威引用來源。
 - **[meeting-insights](./meeting-insights)**: 提煉逐字稿精華，抓出行動清單與決策。
 - **[portrait-pro](./portrait-pro)**: 優化 MJ/SD 人像提示詞，追求極致真實。
+- **[context-compression](./context-compression)**: Optimizing token usage by compressing complex context windows.
 - **[RevOps](./revops)**: Connect marketing systems to sales pipelines and CRM automation.
 - **[Sales Enablement](./sales-enablement)**: Create pitch decks, one-pagers, and sales collateral.
 - **[Product Manager Toolkit](./product-manager-toolkit)**: Specs, roadmaps, and feature prioritization.
