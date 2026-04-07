@@ -1,70 +1,58 @@
 # 🚀 Gemini CLI Skills Toolkit
 
-Welcome to the **Gemini CLI Skills Toolkit**! This is a comprehensive collection of specialized AI agent skills designed to power up your Gemini CLI (or other AI agentic workflows) with domain-specific expertise.
+Welcome to the **Gemini CLI Skills Toolkit**! This is a massive collection of **120+ specialized AI agent skills** designed to transform your Gemini CLI into a multi-disciplinary expert team.
 
-From high-converting marketing copy and technical SEO audits to complex PDF processing and Excel data analysis, this toolkit transforms your AI agent into a multi-disciplinary expert team.
+From Andrej Karpathy's LLM Wiki philosophy to high-stakes strategic analysis and complex file automation, this toolkit provides the "mental models" and "procedural DNA" your AI needs to execute complex real-world tasks.
+
+---
+
+## 🔥 Featured: The LLM Knowledge Engine
+Inspired by Andrej Karpathy, these skills focus on turning raw data into structured knowledge.
+- **[llm-wiki-compiler](./llm-wiki-compiler)**: Automatically "compiles" raw articles and papers into a structured Obsidian-based Wiki.
+- **[obsidan](./obsidan)**: Advanced automation for Obsidian vault management and KM synchronization.
+- **[incremental-ingest](./incremental-ingest)**: The logic for dynamic, compounding knowledge updates.
 
 ---
 
 ## 🛠️ Category Breakdown
 
-### 📊 AI Operations & Logic (New!)
+### 📊 AI Operations & Logic
 Advanced reasoning, routing, and browser-based automation.
-- **[zeroapi](./zeroapi)**: Intelligent model routing for OpenClaw/Gemini CLI. Selects between Gemini 3, GPT-5.3, and Claude 4.6 based on task complexity.
-- **[agent-browser](./agent-browser)**: Web browsing automation for real-time research, data scraping, and interaction.
-- **[skill-vetter](./skill-vetter)**: Automated validation and testing of other skills to ensure reliability and performance.
-- **[control-center](./control-center)**: The central nervous system for managing multi-agent tasks and system-wide state.
+- **[zeroapi](./zeroapi)**: Intelligent model routing (Gemini 3 / GPT-5.3 / Claude 4.6).
+- **[agent-browser](./agent-browser)**: Web browsing automation for real-time research.
+- **[control-center](./control-center)**: Central nervous system for multi-agent task management.
+
+### 🧠 Strategy & Product Intelligence (New!)
+Professional-grade tools for PMs, consultants, and strategists.
+- **[Product Strategy](./product-strategy)**: 9-section Product Strategy Canvas implementation.
+- **[SWOT Analysis](./swot-analysis)**: Automated strategic assessment with actionable recommendations.
+- **[Startup Canvas](./startup-canvas)**: Generate comprehensive strategy and business models for new ventures.
+- **[Create PRD](./create-prd)**: High-quality Product Requirements Document generation.
+- **[Market Sizing](./market-sizing)**: TAM/SAM/SOM estimation with top-down and bottom-up logic.
 
 ### 📈 Marketing & Growth (CRO)
-Boost your conversions and optimize every touchpoint of your user journey.
-- **[Onboarding/Signup CRO](./onboarding-cro)**: Optimize post-signup activation and registration flows.
-- **[Page/Popup CRO](./page-cro)**: Conversion rate optimization for landing pages, homepages, and modals.
-- **[Pricing Strategy](./pricing-strategy)**: Expert guidance on pricing tiers, freemium, and monetization.
-- **[Churn Prevention](./churn-prevention)**: Retention strategies and cancellation flow optimization.
-- **[Referral Program](./referral-program)**: Build viral loops and word-of-mouth strategies.
+- **[Onboarding/Signup CRO](./onboarding-cro)**: Optimize post-signup activation.
+- **[Page/Popup CRO](./page-cro)**: Conversion rate optimization for landing pages.
+- **[Pricing Strategy](./pricing-strategy)**: Expert guidance on tiers and monetization.
+- **[Churn Prevention](./churn-prevention)**: Retention and cancellation flow optimization.
 
 ### 🔍 SEO & Content Strategy
-Dominate search engines and build a sustainable organic presence.
-- **[SEO Audit](./seo-audit)**: Technical and on-page SEO diagnostics.
-- **[AI SEO](./ai-seo)**: Optimize content for AI search engines (AEO/GEO/LLMO).
-- **[Programmatic SEO](./programmatic-seo)**: Scale your SEO with templated, data-driven pages.
-- **[Content Strategy](./content-strategy)**: Plan topic clusters, editorial calendars, and content pillars.
-- **[Schema Markup](./schema-markup)**: Add structured data (JSON-LD) for rich snippets.
-- **[content-research-writer](./content-research-writer)**: 協助撰寫高品質內容，進行深度研究並加入精準引用。
+- **[AI SEO](./ai-seo)**: Optimize for AI search engines (AEO/GEO/LLMO).
+- **[Programmatic SEO](./programmatic-seo)**: Scale SEO with data-driven pages.
+- **[Content Strategy](./content-strategy)**: Plan topic clusters and editorial calendars.
+- **[content-research-writer](./content-research-writer)**: Citation-backed high-quality content writing.
 
 ### ✍️ Copywriting & Communication
-Persuasive writing that resonates with your audience.
-- **[Copywriting/Editing](./copywriting)**: Write and polish high-converting marketing copy.
-- **[Cold Email](./cold-email)**: Craft B2B outreach sequences that get replies.
-- **[Social Content](./social-content)**: Create engaging content for Twitter, LinkedIn, and TikTok.
-- **[baoyu-skills](./baoyu-skills)**: 模擬大 V 風格（如公眾號或 Threads）創作爆款文案。
 - **[Humanizer](./humanizer)**: Inject soul and personality into AI-generated text.
-- **[Internal Comms](./internal-comms)**: Professional status reports, updates, and leadership memos.
-- **[technical-writing](./technical-writing)**: Clear, accurate documentation for developers and technical stakeholders.
+- **[baoyu-skills](./baoyu-skills)**: Large-V style viral content creation.
+- **[Social Content](./social-content)**: Engaging content for LinkedIn, Twitter, and TikTok.
+- **[Internal Comms](./internal-comms)**: Professional memos, status reports, and FAQs.
 
 ### 📂 Productivity & File Processing
-Handle complex file formats and automate repetitive tasks.
-- **[PDF Professional](./pdf)**: Merge, split, fill forms, and OCR scanned documents.
-- **[pdf-extractor](./pdf-extractor)**: 將死板 PDF 報表轉為可運算表格或摘要。
-- **[XLSX Expert](./xlsx)**: Advanced Excel/CSV manipulation, formulas, and cleaning.
-- **[xlsx-master](./xlsx-master)**: 處理複雜公式、生成圖表、尋找數據趨勢。
-- **[PPTX/PPT Generator](./pptx)**: Create and edit professional presentation decks.
-- **[pptx-generator](./pptx-generator)**: 根據大綱自動生成排版精美的投影片。
-- **[Docx](./docx)**: Professional Word document generation and manipulation.
-- **[data-visualization](./data-visualization)**: Transform raw data into insight-driven charts and reports.
-- **[financial-report-generation](./financial-report-generation)**: Professional generation of structured financial statements.
-
-### 🏗️ Product & Tech Operations
-Streamline your development and project management workflows.
-- **[youtube-analyst](./youtube-analyst)**: 拆解熱門影片結構，生成流量密碼腳本。
-- **[content-research](./content-research)**: 深度內容調研，標註權威引用來源。
-- **[meeting-insights](./meeting-insights)**: 提煉逐字稿精華，抓出行動清單與決策。
-- **[portrait-pro](./portrait-pro)**: 優化 MJ/SD 人像提示詞，追求極致真實。
-- **[context-compression](./context-compression)**: Optimizing token usage by compressing complex context windows.
-- **[RevOps](./revops)**: Connect marketing systems to sales pipelines and CRM automation.
-- **[Sales Enablement](./sales-enablement)**: Create pitch decks, one-pagers, and sales collateral.
-- **[Product Manager Toolkit](./product-manager-toolkit)**: Specs, roadmaps, and feature prioritization.
-- **[Site Architecture](./site-architecture)**: Plan sitemaps, navigation, and internal linking.
+- **[PDF/XLSX Professional](./pdf)**: Advanced manipulation of complex document formats.
+- **[PPTX/PPT Generator](./pptx)**: Professional deck creation and automated layout.
+- **[Data Visualization](./data-visualization)**: Transform raw data into insight-driven charts.
+- **[financial-report-generation](./financial-report-generation)**: Structured financial statements.
 
 ---
 
@@ -75,19 +63,17 @@ Streamline your development and project management workflows.
    git clone https://github.com/skytiger6724/gemini-skills.git ~/.gemini/skills
    ```
 
-2. **Configure your AI agent** to include this directory in its skill search path.
-
-3. **Profit!** Start using specialized commands like `/seo-audit`, `/copywriting`, or `/pdf` directly in your CLI.
+2. **Reload Skills**: Run `/skills reload` in your Gemini CLI session.
 
 ---
 
 ## 🤝 Contributing
-Have a powerful new skill or an improvement for an existing one? Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
 ## 📄 License
-This toolkit is provided under the [MIT License](./LICENSE.txt). Feel free to use and adapt it for your own AI agents!
+This toolkit is provided under the [MIT License](./LICENSE.txt).
 
 ---
 *Created with ❤️ by skytiger6724*
